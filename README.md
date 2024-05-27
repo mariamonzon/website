@@ -34,6 +34,9 @@ medperf mlcube submit -n prep \
 
 ### Register the Training MLCube
 
+
+Here we download the docker from the yaml file
+
 ```bash
 medperf mlcube submit -n traincube \
     -m https://storage.googleapis.com/medperf-storage/testfl/mlcube-cpu.yaml?v=2 \
@@ -75,6 +78,9 @@ medperf aggregator submit -n aggreg -a <hostname_found> -p 50273
 ```
 
 ### Associate the aggregator with the experiment
+
+-a: refers to the aggregator ID 
+-t: 1 referes for the trainign experiment ID
 
 ```bash
 medperf aggregator associate -a 1 -t 1

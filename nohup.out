@@ -1,0 +1,230 @@
+0.0.0: Pulling from mlcommons/miccai2023-tutorial-prep
+f03b40093957: Pulling fs layer
+05c2151a829c: Pulling fs layer
+413e4e4760ae: Pulling fs layer
+92ec8b395aa1: Pulling fs layer
+295d2f1818b0: Pulling fs layer
+02d4c596bb9b: Pulling fs layer
+22ee0946347a: Pulling fs layer
+5e4bcaca3c53: Pulling fs layer
+92ec8b395aa1: Waiting
+02d4c596bb9b: Waiting
+22ee0946347a: Waiting
+295d2f1818b0: Waiting
+5e4bcaca3c53: Waiting
+05c2151a829c: Verifying Checksum
+05c2151a829c: Download complete
+413e4e4760ae: Verifying Checksum
+413e4e4760ae: Download complete
+f03b40093957: Verifying Checksum
+f03b40093957: Download complete
+92ec8b395aa1: Download complete
+295d2f1818b0: Verifying Checksum
+295d2f1818b0: Download complete
+02d4c596bb9b: Verifying Checksum
+02d4c596bb9b: Download complete
+5e4bcaca3c53: Verifying Checksum
+5e4bcaca3c53: Download complete
+f03b40093957: Pull complete
+05c2151a829c: Pull complete
+413e4e4760ae: Pull complete
+22ee0946347a: Verifying Checksum
+22ee0946347a: Download complete
+92ec8b395aa1: Pull complete
+295d2f1818b0: Pull complete
+02d4c596bb9b: Pull complete
+22ee0946347a: Pull complete
+5e4bcaca3c53: Pull complete
+Digest: sha256:b58d851f793f90d30fa42d07760bd4c33121447449a4f5d2920b122acc2680ee
+Status: Downloaded newer image for mlcommons/miccai2023-tutorial-prep:0.0.0
+docker.io/mlcommons/miccai2023-tutorial-prep:0.0.0
+0.0.0-cpu: Pulling from hasan7/fltest
+445a6a12be2b: Pulling fs layer
+1796104b49b6: Pulling fs layer
+c54ac089b3d8: Pulling fs layer
+d0f3799c6d56: Pulling fs layer
+c07e173bd200: Pulling fs layer
+497b9a1301fc: Pulling fs layer
+bdbe4731f709: Pulling fs layer
+1c1ef9839385: Pulling fs layer
+4f3f4cbe7008: Pulling fs layer
+4905ca5e3dcb: Pulling fs layer
+10a69f03a249: Pulling fs layer
+23bf6dba1756: Pulling fs layer
+0baf014efbe3: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+aa0f429bda80: Pulling fs layer
+2bcfc66e6806: Pulling fs layer
+ee6cbf1ffe9f: Pulling fs layer
+ab8b948513be: Pulling fs layer
+2fd607687a87: Pulling fs layer
+c9eaa48dcdac: Pulling fs layer
+9b548bf6e4d4: Pulling fs layer
+e8a46fcded1a: Pulling fs layer
+5430e6d916d7: Pulling fs layer
+0baf014efbe3: Waiting
+4f4fb700ef54: Waiting
+aa0f429bda80: Waiting
+2bcfc66e6806: Waiting
+ee6cbf1ffe9f: Waiting
+ab8b948513be: Waiting
+2fd607687a87: Waiting
+c9eaa48dcdac: Waiting
+9b548bf6e4d4: Waiting
+e8a46fcded1a: Waiting
+5430e6d916d7: Waiting
+1c1ef9839385: Waiting
+4f3f4cbe7008: Waiting
+4905ca5e3dcb: Waiting
+10a69f03a249: Waiting
+23bf6dba1756: Waiting
+d0f3799c6d56: Waiting
+c07e173bd200: Waiting
+497b9a1301fc: Waiting
+bdbe4731f709: Waiting
+1796104b49b6: Verifying Checksum
+1796104b49b6: Download complete
+445a6a12be2b: Verifying Checksum
+445a6a12be2b: Download complete
+d0f3799c6d56: Verifying Checksum
+d0f3799c6d56: Download complete
+c07e173bd200: Verifying Checksum
+c07e173bd200: Download complete
+c54ac089b3d8: Verifying Checksum
+c54ac089b3d8: Download complete
+497b9a1301fc: Verifying Checksum
+497b9a1301fc: Download complete
+bdbe4731f709: Verifying Checksum
+bdbe4731f709: Download complete
+4f3f4cbe7008: Verifying Checksum
+4f3f4cbe7008: Download complete
+4905ca5e3dcb: Verifying Checksum
+4905ca5e3dcb: Download complete
+10a69f03a249: Verifying Checksum
+10a69f03a249: Download complete
+1c1ef9839385: Verifying Checksum
+1c1ef9839385: Download complete
+23bf6dba1756: Verifying Checksum
+23bf6dba1756: Download complete
+445a6a12be2b: Pull complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+aa0f429bda80: Download complete
+0baf014efbe3: Verifying Checksum
+0baf014efbe3: Download complete
+ab8b948513be: Verifying Checksum
+ab8b948513be: Download complete
+2bcfc66e6806: Verifying Checksum
+2bcfc66e6806: Download complete
+2fd607687a87: Download complete
+c9eaa48dcdac: Verifying Checksum
+c9eaa48dcdac: Download complete
+9b548bf6e4d4: Download complete
+5430e6d916d7: Verifying Checksum
+5430e6d916d7: Download complete
+e8a46fcded1a: Verifying Checksum
+e8a46fcded1a: Download complete
+1796104b49b6: Pull complete
+ee6cbf1ffe9f: Verifying Checksum
+ee6cbf1ffe9f: Download complete
+c54ac089b3d8: Pull complete
+d0f3799c6d56: Pull complete
+c07e173bd200: Pull complete
+497b9a1301fc: Pull complete
+bdbe4731f709: Pull complete
+1c1ef9839385: Pull complete
+4f3f4cbe7008: Pull complete
+4905ca5e3dcb: Pull complete
+10a69f03a249: Pull complete
+23bf6dba1756: Pull complete
+0baf014efbe3: Pull complete
+4f4fb700ef54: Pull complete
+aa0f429bda80: Pull complete
+2bcfc66e6806: Pull complete
+ee6cbf1ffe9f: Pull complete
+ab8b948513be: Pull complete
+2fd607687a87: Pull complete
+c9eaa48dcdac: Pull complete
+9b548bf6e4d4: Pull complete
+e8a46fcded1a: Pull complete
+5430e6d916d7: Pull complete
+Digest: sha256:08dfbb82149d41a3756b8ee4091fc0cc30cc76cf486750bb354d27c43344f55d
+Status: Downloaded newer image for hasan7/fltest:0.0.0-cpu
+docker.io/hasan7/fltest:0.0.0-cpu
+1.0.0: Pulling from mlcommons/miccai2023-trained
+7c457f213c76: Pulling fs layer
+9d3f7e9178cd: Pulling fs layer
+ede26420fc9d: Pulling fs layer
+43d77d3b423b: Pulling fs layer
+1ac8dc95c5c8: Pulling fs layer
+8d2b81824e24: Pulling fs layer
+0fa3318fc7f2: Pulling fs layer
+ca5418fbf8de: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7d65f49a4d49: Pulling fs layer
+12b3083da727: Pulling fs layer
+37e39ea902de: Pulling fs layer
+8d2b81824e24: Waiting
+0fa3318fc7f2: Waiting
+ca5418fbf8de: Waiting
+43d77d3b423b: Waiting
+7d65f49a4d49: Waiting
+12b3083da727: Waiting
+37e39ea902de: Waiting
+1ac8dc95c5c8: Waiting
+4f4fb700ef54: Waiting
+ede26420fc9d: Verifying Checksum
+ede26420fc9d: Download complete
+7c457f213c76: Verifying Checksum
+7c457f213c76: Download complete
+7c457f213c76: Pull complete
+9d3f7e9178cd: Verifying Checksum
+9d3f7e9178cd: Download complete
+8d2b81824e24: Verifying Checksum
+8d2b81824e24: Download complete
+1ac8dc95c5c8: Verifying Checksum
+1ac8dc95c5c8: Download complete
+ca5418fbf8de: Verifying Checksum
+ca5418fbf8de: Download complete
+43d77d3b423b: Verifying Checksum
+43d77d3b423b: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+7d65f49a4d49: Download complete
+12b3083da727: Verifying Checksum
+12b3083da727: Download complete
+37e39ea902de: Verifying Checksum
+37e39ea902de: Download complete
+0fa3318fc7f2: Verifying Checksum
+0fa3318fc7f2: Download complete
+9d3f7e9178cd: Pull complete
+ede26420fc9d: Pull complete
+43d77d3b423b: Pull complete
+1ac8dc95c5c8: Pull complete
+8d2b81824e24: Pull complete
+0fa3318fc7f2: Pull complete
+ca5418fbf8de: Pull complete
+4f4fb700ef54: Pull complete
+7d65f49a4d49: Pull complete
+12b3083da727: Pull complete
+37e39ea902de: Pull complete
+Digest: sha256:fcf9cc9f76e2a8aff5426ad7a97e088cac12634759eceffe4d87dd64d5594c3a
+Status: Downloaded newer image for mlcommons/miccai2023-trained:1.0.0
+docker.io/mlcommons/miccai2023-trained:1.0.0
+0.0.0: Pulling from mlcommons/miccai2023-metrics
+7c457f213c76: Already exists
+9d3f7e9178cd: Already exists
+ede26420fc9d: Already exists
+43d77d3b423b: Already exists
+1ac8dc95c5c8: Already exists
+8d2b81824e24: Already exists
+0fa3318fc7f2: Already exists
+ca5418fbf8de: Already exists
+4f4fb700ef54: Already exists
+7d65f49a4d49: Already exists
+12b3083da727: Already exists
+63d5bcdd484c: Pulling fs layer
+63d5bcdd484c: Pull complete
+Digest: sha256:a90795b6390c4f3864cee5e2019c28530c91d62e57cb9378044a2c16c34d2189
+Status: Downloaded newer image for mlcommons/miccai2023-metrics:0.0.0
+docker.io/mlcommons/miccai2023-metrics:0.0.0
