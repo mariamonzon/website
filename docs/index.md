@@ -14,7 +14,8 @@ In 2021, **COFE** was used to conduct the largest to-date real world federation,
 
 ## Upcoming Events
 
-- [ISBI 2024](https://biomedicalimaging.org/2024/tutorials-final/#:~:text=TUTORIAL%207%3A%20FEDERATED%20LEARNING%20IN%20HEALTHCARE) - 27 May
+- [ISBI 2024](https://biomedicalimaging.org/2024/tutorials-final/#:~:text=TUTORIAL%207%3A%20FEDERATED%20LEARNING%20IN%20HEALTHCARE) - 27 May (Greece)
+- [MICCAI 2024](https://conferences.miccai.org/2024/en/PROGRAM.html) - 6-10 October (Morocco)
 
 ## Past Events
 
